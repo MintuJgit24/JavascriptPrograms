@@ -3,6 +3,7 @@
 
 console.log("Hello all, welcome to javascript programming");
 console.log("My name is Mintu Joseph");
+console.log("Playwright ");
 
 //var variable=value;
 /*
